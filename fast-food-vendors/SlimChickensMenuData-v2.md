@@ -22,20 +22,23 @@ Slim Chickens also serves desserts in Mason jars, including a strawberry cheesec
 
 Sauces from Slim Chickens 
 There are 16 house made sauces at Slim Chickens, each sauce has a name, descirption, and spice hotness level:
-    Ranch - Creamy and Herby - 5% Spicy
-    Honey BBQ - Sweet and Tangy - 5% Spicy
-    Honey Mustard - Smokey and Tangy - 5% Spicy
-    Slim Sauce - The Orginal - 5% Spicy
-    Blue Cheese - Sweet and Spicy - 5% Spicy
-    Gravy - Southern and Creamy - 10% Spicy
-    Garlic Parmesan - Savory and Creamy -  10% Spicy
-    Cyanne Ranch - Creamy with a Kick - 50% Spicy
-    Korean BBQ  Savory and Rich -  50% Spicy
-    Buffalo - Spicy and Tangy -  50% Spicy
-    Sweet Red Chili - Think Pepper Jelly - 60% Spicy
-    Spicy BBQ - Hot and Tangy - 60% Spicy
-    Hot - Hot and Tangy - 70% Spicy
-    Mango Habanero - Sweet and Spicy - 90% Spicy
+
+    | Sauce Type | Description | Spice Level |
+    | --- | --- | --- |
+    | Ranch | Creamy and Herby | 5% Spicy |
+    | Honey BBQ | Sweet and Tangy | 5% Spicy |
+    | Honey Mustard | Smokey and Tangy | 5% Spicy |
+    | Slim Sauce | The Orginal | 5% Spicy |
+    | Blue Cheese | Sweet and Spicy | 5% Spicy |
+    | Gravy | Southern and Creamy | 10% Spicy |
+    | Garlic Parmesan | Savory and Creamy |  10% Spicy |
+    | Cyanne Ranch | Creamy with a Kick | 50% Spicy |
+    | Korean BBQ  Savory and Rich |  50% Spicy |
+    | Buffalo | Spicy and Tangy |  50% Spicy |
+    | Sweet Red Chili | Think Pepper Jelly | 60% Spicy|
+    | Spicy BBQ | Hot and Tangy | 60% Spicy |
+    | Hot | Hot and Tangy | 70% Spicy |
+    | Mango Habanero | Sweet and Spicy |  90% Spicy |
 
 Slim Chicken Meal Types and composition - 
 
