@@ -22,7 +22,7 @@
 | Ranch | Creamy and Herby | 5% Spicy |
 | Honey BBQ | Sweet and Tangy | 5% Spicy |
 | Honey Mustard | Smokey and Tangy | 5% Spicy |
-| Slim Sauce | The Orginal | 5% Spicy |
+| Slim Sauce | The Original | 5% Spicy |
 | Blue Cheese | Sweet and Spicy | 5% Spicy |
 | Gravy | Southern and Creamy | 10% Spicy |
 | Garlic Parmesan | Savory and Creamy |  10% Spicy |
@@ -81,7 +81,7 @@ These are the Types of Slim Chicken Family Packs:
       Tailgate Pack
       Grab-n-Go pack
 
-## Family Pack Compostions:
+## Family Pack Compositions:
 
   ### Picnic Meal:
     16 Tenders 
@@ -138,9 +138,9 @@ These are the Types of Slim Chicken Family Packs:
  ### Kid's mac and cheese meal from Slim Chickens
     kids portion of mac and cheese with texas toast and a kids drink or juice
 
-# Slim Chicken Sanwhich Types:
+# Slim Chicken Sandwhich Types:
        Chicken Club Sandwich
-       Cyanne Ranch Sanwich
+       Cyanne Ranch Sandwich
        Cripsy Chicken Sandwich
 
 ## Slims Sandwich Meal Composition:
@@ -170,7 +170,7 @@ These are the Types of Slim Chicken Family Packs:
   ## Tea
     Tea Types
   ### Teas: 
-    Rasberry
+    Raspberry
     Peach
     Unsweet
     Sweet
@@ -209,7 +209,7 @@ These are the Types of Slim Chicken Family Packs:
         Large
         Kids
 
-# Ways to Have Chciken Prepared: 
+# Ways to Have Chicken Prepared: 
 
       Grilled
       Fried
